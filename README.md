@@ -1,1 +1,1 @@
-https://github.com/TgCatUB/catuserbot.git
+# ubuntu-template
